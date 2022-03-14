@@ -1,0 +1,43 @@
+// User
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const UPDATE_CURRENT_USER = 'UPDATE_CURRENT_USER';
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const SIGNUP = 'SIGNUP';
+export const SET_TOKEN = 'SET_TOKEN';
+export const SET_LOADING = 'SET_LOADING';
+export const SET_UPDATE_LOADING = 'SET_UPDATE_LOADING';
+
+// Services
+export const GET_SERVICES = 'GET_SERVICES';
+export const ADD_SERVICE = 'ADD_SERVICE';
+export const UPDATE_SERVICE = 'UPDATE_SERVICE';
+export const DELETE_SERVICE = 'DELETE_SERVICE';
+export const UPDATE_STATUS = 'UPDATE_STATUS';
+export const UPDATE_RECORDS = 'UPDATE_RECORDS';
+export const SET_SERVICE_LOADING = 'SET_SERVICE_LOADING';
+
+// Packages
+export const GET_PACKAGES = 'GET_PACKAGES';
+export const ADD_PACKAGE = 'ADD_PACKAGE';
+export const UPDATE_PACKAGE = 'UPDATE_PACKAGE';
+export const DELETE_PACKAGE = 'DELETE_PACKAGE';
+export const UPDATE_PACKAGE_STATUS = 'UPDATE_PACKAGE_STATUS';
+export const SET_PACKAGE_LOADING = 'SET_PACKAGE_LOADING';
+
+// Specialists
+export const GET_SPECIALISTS = 'GET_SPECIALISTS';
+export const ADD_SPECIALIST = 'ADD_SPECIALIST';
+export const UPDATE_SPECIALIST = 'UPDATE_SPECIALIST';
+export const DELETE_SPECIALIST = 'DELETE_SPECIALIST';
+export const UPDATE_SPECIALIST_STATUS = 'UPDATE_SPECIALIST_STATUS';
+export const SET_SPECIALIST_LOADING = 'SET_SPECIALIST_LOADING';
+
+// Gallery
+export const GET_PICTURE = 'GET_PICTURE';
+export const ADD_PICTURE = 'ADD_PICTURE';
+export const DELETE_PICTURE = 'DELETE_PICTURE';
+export const SET_PICTURE_LOADING = 'SET_PICTURE_LOADING';
+
+// Error
+export const SET_ERROR = 'SET_ERROR';
